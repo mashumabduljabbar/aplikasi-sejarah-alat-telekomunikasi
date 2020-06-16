@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alat Telekomunikasi</string>
+    <string name="nama_alat">nama_alat</string>
+    <string name="detail_alat">detail_alat</string>
+    <string name="about">About</string>
+    <string name="tahun_alat">Ditemukan Tahun</string>
+    <string name="tahun_alat_value">tahun_alat_value</string>
+    <string name="nama_penemu">Nama Penemu</string>
+    <string name="penemu_alat_value">penemu_alat_value</string>
+    <string name="nama_orang_ganteng">Ma\'shum Abdul Jabbar</string>
+    <string name="email_orang_ganteng">multimediary@gmail.com</string>
+</resources>
