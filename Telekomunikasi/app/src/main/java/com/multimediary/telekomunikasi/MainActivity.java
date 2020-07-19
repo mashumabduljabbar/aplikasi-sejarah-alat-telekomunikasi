@@ -1,13 +1,13 @@
 package com.multimediary.telekomunikasi;
-import android.content.Intent;
-import android.os.Bundle;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
-import android.view.Menu;
-import android.view.MenuItem;
+        import android.content.Intent;
+        import android.os.Bundle;
+        import androidx.appcompat.app.AppCompatActivity;
+        import androidx.recyclerview.widget.LinearLayoutManager;
+        import androidx.recyclerview.widget.RecyclerView;
+        import android.view.Menu;
+        import android.view.MenuItem;
 
-import java.util.ArrayList;
+        import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
     private String title = "Alat Telekomunikasi";
